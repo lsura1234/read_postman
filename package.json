@@ -1,0 +1,23 @@
+{
+  "name": "read_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsura1234/read_postman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsura1234/read_postman/issues"
+  },
+  "homepage": "https://github.com/lsura1234/read_postman#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "nodemon": "^1.19.1"
+  }
+}
