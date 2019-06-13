@@ -1,0 +1,106 @@
+{
+    "id": "e583152e-4492-4198-bdfe-75cf3202aa52",
+    "name": "Local",
+    "values": [
+      {
+        "key": "SERVER",
+        "value": "http://localhost:3000",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "AUTH_URL",
+        "value": "http://localhost:2020",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "TMS_URL",
+        "value": "http://localhost:4001",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "2STAGE_SERVER",
+        "value": "http://localhost:3003",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "FLEET_URL",
+        "value": "http://localhost:8081",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "OMS_URL",
+        "value": "http://localhost:2019",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "ONDEMAND_URL",
+        "value": "http://localhost:3000",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "BLACKBOX_URL",
+        "value": "http://localhost:3000/blackbox",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "TOKEN",
+        "value": "JWT \neyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4xIiwicm9sZSI6IlJPT1QiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE1NDMzOTA2NjMsImV4cCI6MzMwNzkzOTA2NjMsImF1ZCI6InNlbmRpdC5hc2lhIiwiaXNzIjoic2VsZiJ9.Hzw-8SYaCDUxS8Y0ubQo3deCEjpXlHBEFM2hwnKrHrg",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "NEW_BLACKBOX_URL",
+        "value": "http://localhost:3009",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "EXTERNAL_URL",
+        "value": "http://localhost:3002",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "PRICE_CALULATE_URL",
+        "value": "http://localhost:4000",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "INCENTIVE_URL",
+        "value": "http://localhost:8089",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "CPC_URL",
+        "value": "http://localhost:8000",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "ANNY",
+        "value": "http://localhost:3000",
+        "enabled": true,
+        "type": "text"
+      },
+      {
+        "key": "REQUEST_APPROVE",
+        "value": "http://localhost:3000",
+        "enabled": true,
+        "type": "text"
+      }
+    ],
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2019-06-13T08:56:57.465Z",
+    "_postman_exported_using": "Postman/6.0.10"
+  }
+  
